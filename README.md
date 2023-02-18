@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jengle-dev
 - 👀 I’m interested in full stack software development and just starting out.
 - 🌱 I’m currently learning a little of everything from a bootcamp I'm enrolled in.
-- 💞️ I’m not ready to collaborate yet, still learning basics.
+- 💞️ I’m open to collaborate but I am still learning basics.
 - 📫 How to reach me j.engle.dev@gmail.com.
 
 <!---
