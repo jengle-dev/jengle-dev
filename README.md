@@ -35,20 +35,22 @@ Feel free to reach out and connect on <a href="linkedin.com/in/jennifer-engle">L
     <li>Tailwind CSS</li>
     <li>Handlebars</li>
   </ul>
-<h1>Additional Skills</h1>
+<h1>Additional Skills & Applications</h1>
 <ul> 
   <li>Adobe Creative Cloud</li>
   <li>JIRA & Azure DevOps</li>
+  <li>Kanban</li>
   <li>Salesforce UI</li>
   <li>PowerBi UI</li>
   <li>BMC Ticketing System</li>
   <li>Software Development Lifecycle (SDLC)</li>
+  <li>Process Mapping</li>
+  <li>Visio</li>
+  <li>Requirements Gathering & Documentation</li>
   <li>Centers of Excellence</li>
   <li>Scrum</li>
   <li>Lean Six Sigma - White & Yellow Belt</li>
-  <li>Kanban</li>
-  </ul>
-  
+</ul>
   
 </body>
 <!---
