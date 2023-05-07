@@ -40,8 +40,9 @@ Feel free to reach out and connect on <a href="linkedin.com/in/jennifer-engle">L
   <li>Adobe Creative Cloud</li>
   <li>JIRA & Azure DevOps</li>
   <li>Kanban</li>
-  <li>Salesforce UI</li>
-  <li>PowerBi UI</li>
+  <li>Robotic Process Automation (RPA)</li>
+  <li>Salesforce UI & Ticketing System</li>
+  <li>ServiceNow Ticketing System</li>
   <li>BMC Ticketing System</li>
   <li>Software Development Lifecycle (SDLC)</li>
   <li>Process Mapping</li>
