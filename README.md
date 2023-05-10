@@ -15,7 +15,8 @@ The best way to reach me for collaboration is via email j.engle.dev@gmail.com <b
 Feel free to reach out and connect on <a href="linkedin.com/in/jennifer-engle">LinkedIn</a> 
 
 
-  
+My personal development portfolio is <a href="https://jengle-dev.github.io/Personal-React-Portfolio/" target="_blank"
+                                        >here</a>.  
 
 <h1>Full Stack Language & Application Knowledge</h1>
   <ul>
