@@ -21,7 +21,9 @@ My personal development portfolio is <a href="https://jengle-dev.github.io/Perso
                                         >here</a>.  
 
 <h1>Full Stack Language & Application Knowledge</h1>
+  
   This list is not exhaustive and I will continue to add on as I continue to pick up more knowledge.
+  
 
   | Full Stack Skills        |              |                    |
   | ------------- | ------------ | ------------------ |
@@ -51,7 +53,20 @@ My personal development portfolio is <a href="https://jengle-dev.github.io/Perso
     <li>Handlebars</li>
   </ul> -->
 <h1>Additional Skills & Applications</h1>
-<ul> 
+
+Working for multiple enterprise level companies has given me the opportunity to use different platforms and tools at length from a front end user. This list includes those applications and methodolies. 
+  
+  | Additional Skills  |   |   |
+  | ------------- | ------------ | ------------------ |
+  | Adobe Creative Cloud | JIRA | Azure DevOps |
+  | Kanban | Robotic Process Automation (RPA) | ServiceNow Ticketing |
+  | Salesforce Ticketing | Salesforce UI | BMC Helix Ticketing |
+  | Software Development LifeCycle (SDLC) | Centers of Excellence (COEs) | Lean Six Sigma |
+  | Scrum | Requirements Gathering & Documentation | User Acceptance Testing |
+  | Unit Testing | Process Mapping | Visio | 
+  
+  
+<!--   <ul> 
   <li>Adobe Creative Cloud</li>
   <li>JIRA & Azure DevOps</li>
   <li>Kanban</li>
@@ -66,7 +81,7 @@ My personal development portfolio is <a href="https://jengle-dev.github.io/Perso
   <li>Centers of Excellence</li>
   <li>Scrum</li>
   <li>Lean Six Sigma - White & Yellow Belt</li>
-</ul>
+</ul> -->
   
 </body>
 <!---
