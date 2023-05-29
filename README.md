@@ -8,7 +8,9 @@
   
 I am a full stack software developer. 
   
-- I’m currently learning a little of everything from a bootcamp I'm enrolled in. The course began at the end of November 2022 and will conclude at the end of May 2023.
+- I’ve graduated the KU Full Stack Coding Bootcamp on May 25, 2023. 
+- MERN is my current stack but am still learning. 
+- Languages & Tools I'm working on at the moment: C#, Python, Stripe   
 - I am open to collaborate but I am still learning basics and would not want to represent myself as an expert of any level or language of code. 
 
 The best way to reach me for collaboration is via email j.engle.dev@gmail.com <br>
