@@ -10,7 +10,7 @@ I am a full stack software developer.
   
 - I’ve graduated the KU Full Stack Coding Bootcamp on May 25, 2023. 
 - MERN is my current stack but am still learning. 
-- Languages & Tools I'm working on at the moment: C#, Python, Stripe   
+- Languages & Tools I'm working on at the moment: C#, Python, Stripe, AngularJS, TypeScript   
 - I am open to collaborate but I am still learning basics and would not want to represent myself as an expert of any level or language of code. 
 
 The best way to reach me for collaboration is via email j.engle.dev@gmail.com <br>
@@ -21,23 +21,35 @@ My personal development portfolio is <a href="https://jengle-dev.github.io/Perso
                                         >here</a>.  
 
 <h1>Full Stack Language & Application Knowledge</h1>
+  This list is not exhaustive and I will continue to add on as I continue to pick up more knowledge.
+
+  | Full Stack Skills        |              |                    |
+  | ------------- | ------------ | ------------------ |
+  | React         | GraphQL      | Apollo Atlas & Compass |
+  | Vanilla HTML  | Vanilla CSS  | Vanilla JavaScript |
+  | MySQL & NoSQL | MongoDB      | jQuery             |
+  | Node.js | Express.js | NPM & NPX | 
+  | Insomnia | Jest | Postman |
+  | Chakra Ui | Tailwind CSS | Bootstrap |
+  
+<!--   
   <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Vanilla JavaScript</li>
+    <li>Vanilla JavaScript</li> |
     <li>jQuery</li>
     <li>MySQL</li>
-    <li>NoSQL - MongoDB</li>
+    <li>NoSQL - MongoDB</li> |
     <li>Express.js</li>
     <li>Node.js</li>
     <li>Insomnia</li>
-    <li>Postman</li>
+    <li>Postman</li> |
     <li>Jest</li>
     <li>React</li>
     <li>Bootstrap</li>
     <li>Tailwind CSS</li>
     <li>Handlebars</li>
-  </ul>
+  </ul> -->
 <h1>Additional Skills & Applications</h1>
 <ul> 
   <li>Adobe Creative Cloud</li>
