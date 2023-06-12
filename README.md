@@ -10,7 +10,7 @@ I am a full stack software developer.
   
 - I’ve graduated the KU Full Stack Coding Bootcamp on May 25, 2023. 
 - MERN is my current stack but am still learning. 
-- Languages & Tools I'm working on at the moment: C#, Python, Stripe, AngularJS, TypeScript   
+- Languages & Tools I'm working on at the moment: C#, AngularJS, TypeScript   
 - I am open to collaborate but I am still learning basics and would not want to represent myself as an expert of any level or language of code. 
 
 The best way to reach me for collaboration is via email j.engle.dev@gmail.com <br>
@@ -23,7 +23,7 @@ My personal development portfolio is <a href="https://jengle-dev.github.io/Perso
 <h1>Full Stack Language & Application Knowledge</h1>
   
   This list is not exhaustive and I will continue to add on as I continue to pick up more knowledge.
-  As of May/June 2023, I am working on Angular JS, C# & Typescript via Udemy courses.
+  As of May/June 2023, I am working on Angular JS, C# & TypeScript via Udemy courses.
 
   | Full Stack Skills        |              |                    |
   | ------------- | ------------ | ------------------ |
