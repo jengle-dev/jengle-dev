@@ -23,7 +23,7 @@ My personal development portfolio is <a href="https://jengle-dev.github.io/Perso
 <h1>Full Stack Language & Application Knowledge</h1>
   
   This list is not exhaustive and I will continue to add on as I continue to pick up more knowledge.
-  
+  As of May/June 2023, I am working on Angular JS, C# & Typescript via Udemy courses.
 
   | Full Stack Skills        |              |                    |
   | ------------- | ------------ | ------------------ |
